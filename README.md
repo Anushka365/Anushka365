@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anushka365!  A fun-loving individual with a zest for technology
 - 👀 I’m interested in Electronics and Data Security stuff.
-- 🌱 I’m currently learning whatever I can and have to. Engaged in co-curricular activities throughout college. Skilled in Team Management and Effective Communication
-  💞️ I’m looking to collaborate on what fits my role and personality.
+- 🌱 I’m currently learning whatever I can and have to. Engaged in co-curricular activities throughout college. Skilled in Team Management and Effective Communication.
+- 💞️ I’m looking to collaborate on what fits my role and personality.
 - 📫 How to reach me, look for my LinkedIn profile!
 
 <!---
